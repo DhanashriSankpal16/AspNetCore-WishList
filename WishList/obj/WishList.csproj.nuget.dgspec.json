@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vmadmin\\Source\\Repos\\AspNetCore-WishList\\WishList\\WishList.csproj": {}
+    "C:\\Users\\M1082638\\Source\\Repos\\DhanashriSankpal16\\AspNetCore-WishList\\WishList\\WishList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vmadmin\\Source\\Repos\\AspNetCore-WishList\\WishList\\WishList.csproj": {
+    "C:\\Users\\M1082638\\Source\\Repos\\DhanashriSankpal16\\AspNetCore-WishList\\WishList\\WishList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vmadmin\\Source\\Repos\\AspNetCore-WishList\\WishList\\WishList.csproj",
+        "projectUniqueName": "C:\\Users\\M1082638\\Source\\Repos\\DhanashriSankpal16\\AspNetCore-WishList\\WishList\\WishList.csproj",
         "projectName": "WishList",
-        "projectPath": "C:\\Users\\vmadmin\\Source\\Repos\\AspNetCore-WishList\\WishList\\WishList.csproj",
-        "packagesPath": "C:\\Users\\vmadmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vmadmin\\Source\\Repos\\AspNetCore-WishList\\WishList\\obj\\",
+        "projectPath": "C:\\Users\\M1082638\\Source\\Repos\\DhanashriSankpal16\\AspNetCore-WishList\\WishList\\WishList.csproj",
+        "packagesPath": "C:\\Users\\M1082638\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\M1082638\\Source\\Repos\\DhanashriSankpal16\\AspNetCore-WishList\\WishList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vmadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\M1082638\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
