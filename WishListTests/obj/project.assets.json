@@ -9234,11 +9234,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\M1082638\\Source\\Repos\\DhanashriSankpal16\\AspNetCore-WishList\\WishListTests\\WishListTests.csproj",
+      "projectUniqueName": "C:\\Users\\M1082638\\Desktop\\ASP.NETProject\\WishListTests\\WishListTests.csproj",
       "projectName": "WishListTests",
-      "projectPath": "C:\\Users\\M1082638\\Source\\Repos\\DhanashriSankpal16\\AspNetCore-WishList\\WishListTests\\WishListTests.csproj",
+      "projectPath": "C:\\Users\\M1082638\\Desktop\\ASP.NETProject\\WishListTests\\WishListTests.csproj",
       "packagesPath": "C:\\Users\\M1082638\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\M1082638\\Source\\Repos\\DhanashriSankpal16\\AspNetCore-WishList\\WishListTests\\obj\\",
+      "outputPath": "C:\\Users\\M1082638\\Desktop\\ASP.NETProject\\WishListTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\M1082638\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9255,8 +9255,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\M1082638\\Source\\Repos\\DhanashriSankpal16\\AspNetCore-WishList\\WishList\\WishList.csproj": {
-              "projectPath": "C:\\Users\\M1082638\\Source\\Repos\\DhanashriSankpal16\\AspNetCore-WishList\\WishList\\WishList.csproj"
+            "C:\\Users\\M1082638\\Desktop\\ASP.NETProject\\WishList\\WishList.csproj": {
+              "projectPath": "C:\\Users\\M1082638\\Desktop\\ASP.NETProject\\WishList\\WishList.csproj"
             }
           }
         }

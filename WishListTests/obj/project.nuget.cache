@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RlK4hLfSPHLdrhen/v7vuoSSvJvHLHkPxOXuxkVCp/0EuJsyQzuCNTmVpCFT/sSLIdL3ZJjH3nMfY39WC0N22g==",
+  "dgSpecHash": "hub8fnVkqrX4Upe9x4g3BBXpccHeKmel0zJPcG7GYiznnu3an04i0YvyrmXs1cMf0UVizbvoQClgEHvH5Y6YLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\M1082638\\Source\\Repos\\DhanashriSankpal16\\AspNetCore-WishList\\WishListTests\\WishListTests.csproj",
+  "projectFilePath": "C:\\Users\\M1082638\\Desktop\\ASP.NETProject\\WishListTests\\WishListTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\M1082638\\.nuget\\packages\\automapper\\4.2.1\\automapper.4.2.1.nupkg.sha512",
     "C:\\Users\\M1082638\\.nuget\\packages\\castle.core\\3.3.3\\castle.core.3.3.3.nupkg.sha512",
