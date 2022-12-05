@@ -177,3 +177,10 @@ C:\Users\vmadmin\Source\Repos\AspNetCore-WishList\WishListTests\obj\Debug\netcor
 C:\Users\vmadmin\Source\Repos\AspNetCore-WishList\WishListTests\obj\Debug\netcoreapp3.1\WishListTests.dll
 C:\Users\vmadmin\Source\Repos\AspNetCore-WishList\WishListTests\obj\Debug\netcoreapp3.1\WishListTests.pdb
 C:\Users\vmadmin\Source\Repos\AspNetCore-WishList\WishListTests\obj\Debug\netcoreapp3.1\WishListTests.genruntimeconfig.cache
+C:\Users\M1082638\Desktop\ASP.NETProject\WishListTests\obj\Debug\netcoreapp3.1\WishListTests.csproj.AssemblyReference.cache
+C:\Users\M1082638\Desktop\ASP.NETProject\WishListTests\obj\Debug\netcoreapp3.1\WishListTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M1082638\Desktop\ASP.NETProject\WishListTests\obj\Debug\netcoreapp3.1\WishListTests.AssemblyInfoInputs.cache
+C:\Users\M1082638\Desktop\ASP.NETProject\WishListTests\obj\Debug\netcoreapp3.1\WishListTests.AssemblyInfo.cs
+C:\Users\M1082638\Desktop\ASP.NETProject\WishListTests\obj\Debug\netcoreapp3.1\WishListTests.csproj.CoreCompileInputs.cache
+C:\Users\M1082638\Desktop\ASP.NETProject\WishListTests\obj\Debug\netcoreapp3.1\WishListTests.dll
+C:\Users\M1082638\Desktop\ASP.NETProject\WishListTests\obj\Debug\netcoreapp3.1\WishListTests.pdb
