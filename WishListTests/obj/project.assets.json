@@ -9229,19 +9229,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\M1082638\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\M1082638\\Desktop\\ASP.NETProject\\WishListTests\\WishListTests.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Source\\Repos\\AspNetCore-WishList\\WishListTests\\WishListTests.csproj",
       "projectName": "WishListTests",
-      "projectPath": "C:\\Users\\M1082638\\Desktop\\ASP.NETProject\\WishListTests\\WishListTests.csproj",
-      "packagesPath": "C:\\Users\\M1082638\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\M1082638\\Desktop\\ASP.NETProject\\WishListTests\\obj\\",
+      "projectPath": "C:\\Users\\admin\\Source\\Repos\\AspNetCore-WishList\\WishListTests\\WishListTests.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\admin\\Source\\Repos\\AspNetCore-WishList\\WishListTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\M1082638\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9255,8 +9255,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\M1082638\\Desktop\\ASP.NETProject\\WishList\\WishList.csproj": {
-              "projectPath": "C:\\Users\\M1082638\\Desktop\\ASP.NETProject\\WishList\\WishList.csproj"
+            "C:\\Users\\admin\\Source\\Repos\\AspNetCore-WishList\\WishList\\WishList.csproj": {
+              "projectPath": "C:\\Users\\admin\\Source\\Repos\\AspNetCore-WishList\\WishList\\WishList.csproj"
             }
           }
         }
@@ -9297,7 +9297,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
       }
     }
   },
