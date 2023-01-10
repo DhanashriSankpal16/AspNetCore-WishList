@@ -7283,19 +7283,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\M1082638\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Source\\Repos\\AspNetCore-WishList\\WishList\\WishList.csproj",
+      "projectUniqueName": "C:\\Users\\M1082638\\Desktop\\asp.netcore\\WishList\\WishList.csproj",
       "projectName": "WishList",
-      "projectPath": "C:\\Users\\admin\\Source\\Repos\\AspNetCore-WishList\\WishList\\WishList.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Source\\Repos\\AspNetCore-WishList\\WishList\\obj\\",
+      "projectPath": "C:\\Users\\M1082638\\Desktop\\asp.netcore\\WishList\\WishList.csproj",
+      "packagesPath": "C:\\Users\\M1082638\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\M1082638\\Desktop\\asp.netcore\\WishList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\M1082638\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7352,7 +7352,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
       }
     }
   },
